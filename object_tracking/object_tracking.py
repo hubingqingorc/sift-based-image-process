@@ -5,7 +5,7 @@ import random
 import time
 
 
-class ShowImg:  # 进行图片初始显示及拼接后显
+class ShowImg:  # 图片初始显示及拼接后显示
     def __init__(self):  # 初始化
         self.figsize = (10, 8)
         self.dip = 120
